@@ -1,0 +1,49 @@
+_repo: Salaper-inen-saariSeikkailukertomus_41363
+_version: 0.1.0
+alternative_title: L'île mystérieuse. Finnish
+contributor:
+  translator:
+    agent_name: Suomalainen, Samuli
+    aliases:
+    - S., Samuli
+    - Samuli S.
+    birthdate: 1850
+    deathdate: 1907
+    gutenberg_agent_id: '7732'
+    url: http://www.gutenberg.org/2009/agents/7732
+    wikipedia: http://fi.wikipedia.org/wiki/Carl_Gustaf_Samuel_Suomalainen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriel
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_issued: '2012-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41363'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Castaways -- Fiction'
+- !lcsh 'Islands of the Pacific -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Adventure stories'
+title: 'Salaperäinen saari: Seikkailukertomus'
+url: http://www.gutenberg.org/ebooks/41363
